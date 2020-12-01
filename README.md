@@ -1,2 +1,2 @@
 # Online-Shopping-System-GUI
-A GUI based on python programming using Tkinter
+A Graphical User Interface Based on Python Tkinter that replicates online shopping.
